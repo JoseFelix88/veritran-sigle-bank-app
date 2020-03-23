@@ -1,0 +1,1 @@
+# veritran-sigle-bank-app
